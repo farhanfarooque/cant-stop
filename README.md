@@ -18,7 +18,7 @@ Core Language: Java
 UI Framework: Java Swing 
 
 Documentation Overview:
-📚 In-Depth Documentation for 'Can't Stop' Development
+📚 In-Depth Documentation for 'Can't Stop' Development/n
 
 Our repository is enriched with comprehensive documentation, offering a detailed understanding of the 'Can't Stop' game's design, architecture, and functionalities.
 
